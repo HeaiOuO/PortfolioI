@@ -1,0 +1,14 @@
+C:\Users\heai0\OneDrive\Desktop\Profile\bin\Debug\netcoreapp2.1\Profile.deps.json
+C:\Users\heai0\OneDrive\Desktop\Profile\bin\Debug\netcoreapp2.1\Profile.runtimeconfig.json
+C:\Users\heai0\OneDrive\Desktop\Profile\bin\Debug\netcoreapp2.1\Profile.runtimeconfig.dev.json
+C:\Users\heai0\OneDrive\Desktop\Profile\bin\Debug\netcoreapp2.1\Profile.dll
+C:\Users\heai0\OneDrive\Desktop\Profile\bin\Debug\netcoreapp2.1\Profile.pdb
+C:\Users\heai0\OneDrive\Desktop\Profile\obj\Debug\netcoreapp2.1\Profile.csprojAssemblyReference.cache
+C:\Users\heai0\OneDrive\Desktop\Profile\obj\Debug\netcoreapp2.1\Profile.csproj.CoreCompileInputs.cache
+C:\Users\heai0\OneDrive\Desktop\Profile\obj\Debug\netcoreapp2.1\Profile.RazorAssemblyInfo.cache
+C:\Users\heai0\OneDrive\Desktop\Profile\obj\Debug\netcoreapp2.1\Profile.RazorAssemblyInfo.cs
+C:\Users\heai0\OneDrive\Desktop\Profile\obj\Debug\netcoreapp2.1\Profile.AssemblyInfoInputs.cache
+C:\Users\heai0\OneDrive\Desktop\Profile\obj\Debug\netcoreapp2.1\Profile.AssemblyInfo.cs
+C:\Users\heai0\OneDrive\Desktop\Profile\obj\Debug\netcoreapp2.1\Profile.RazorTargetAssemblyInfo.cache
+C:\Users\heai0\OneDrive\Desktop\Profile\obj\Debug\netcoreapp2.1\Profile.dll
+C:\Users\heai0\OneDrive\Desktop\Profile\obj\Debug\netcoreapp2.1\Profile.pdb
